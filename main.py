@@ -1,6 +1,7 @@
 import sense_hat
 from time import sleep, time
 from random import randint
+print("hgggggggggggggggggggggg")
 
 sense = sense_hat.SenseHat()
 sense.clear()
